@@ -12,7 +12,11 @@ SCL - ANALOG pin 5
 
 #### HC-06 Bluetooth Module Pin
 
-#### DHT22 Temperture & Humidity Sensor 
+#### DHT11 Temperture & Humidity Sensor 
+
+*Middle - 5v
+*Right ( - ) - GND 
+*Left ( s ) - Arduino Digital Pin
 
 #### LDR Sensor 
 
